@@ -6,6 +6,8 @@ namespace Hjemmet
         {
             Console.WriteLine("Gæt et tal er ikke implementeret endnu.");
             Console.ReadKey();
+
+            int rr1
         }
     }
 }
